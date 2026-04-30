@@ -1,4 +1,4 @@
-Analisis Bootstrap pada Statistik Deskriptif IPLM Wilayah Sumatera Tahun 2024
+# Analisis Bootstrap pada Statistik Deskriptif IPLM Wilayah Sumatera Tahun 2024
 
 **Deskripsi Proyek Poster Komputasi Statistika**
 
