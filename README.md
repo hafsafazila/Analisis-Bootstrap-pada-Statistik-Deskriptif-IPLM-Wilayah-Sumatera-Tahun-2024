@@ -1,0 +1,1 @@
+# Analisis-Bootstrap-pada-Statistik-Deskriptif-IPLM-Wilayah-Sumatera-Tahun-2024
